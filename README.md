@@ -1,7 +1,7 @@
 # Platelet phenotypes, frailty and physical performance in older adults living at high southern latitudes
 
 Analysis code, de-identified analysis data and manuscript sources of the study *Longitudinal associations of platelet
-activation phenotypes with frailty and physical performance in older adults living at high southern latitudes*
+CD41/CD62 phenotypes with frailty and physical performance in older adults living at high southern latitudes*
 (Escuela de Medicina, Universidad de Magallanes, Punta Arenas, Chile).
 
 Platelet phenotypes (CD41/CD62, flow cytometry) were related to frailty (FRAIL scale) and physical performance (handgrip
