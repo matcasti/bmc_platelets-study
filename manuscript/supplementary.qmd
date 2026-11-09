@@ -130,6 +130,8 @@ flextable(tab) |>
               align = c("left", "left", rep("right", 5)), size = 8)
 ```
 
+***Table S5**. Number of non-missing observations per variable at each assessment. Paired CD41/CD62 platelet data from baseline to the 1-year follow-up were available for 51 participants, and complete platelet data at all three assessments for 41 participants. Reasons for non-attendance were not recorded.*
+
 ```{r}
 #| label: table-s5
 # Number of non-missing observations per variable and timestamp

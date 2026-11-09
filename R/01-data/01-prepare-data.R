@@ -74,7 +74,8 @@ data_merged[, redcap_event_name := NULL]
 data_merged[, `:=`(diabetes = factor("No"), hypertension = factor("No"), dyslipidemia = factor("No"))]
 data_merged[tolower(disease_physical) %like% "dm|insulin|diabet", diabetes := "Yes"]
 data_merged[tolower(disease_physical) %like% "hta|hiperten|arterial", hypertension := "Yes"]
-data_merged[tolower(disease_physical) %like% "hta|hiperten|arterial", dyslipidemia := "Yes"]
+# hypercholesterolemia, dyslipidemia, triglycerides (spelling variants included)
+data_merged[tolower(disease_physical) %like% "dislip|coleste|trigli|hiperlip", dyslipidemia := "Yes"]
 data_merged[, disease_physical := NULL]
 
 # a condition recorded at any visit is assigned to all visits of the participant

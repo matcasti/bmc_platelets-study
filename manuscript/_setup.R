@@ -28,6 +28,12 @@ rho_p <- function(subtype) {
   sprintf("rho = %.2f, p-value = %.3f", round(r$rho, 2) + 0, r$p.value)
 }
 
+# Prevalence of a condition ("Yes") among participants, from the first record of each participant (as in Table 1)
+prevalence <- function(variable) {
+  first <- platelets_d[, .SD[1], id]
+  sprintf("%.1f%%", 100 * mean(first[[variable]] == "Yes"))
+}
+
 # Posterior summaries of every model (output/estimates/model-estimates.csv) ---------------------------------
 
 estimates <- read_estimates()

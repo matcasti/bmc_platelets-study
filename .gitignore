@@ -16,3 +16,5 @@
 .quarto
 manuscript/*.docx
 manuscript/NOTES-private.md
+
+/.quarto/
