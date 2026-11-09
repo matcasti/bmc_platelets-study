@@ -1,0 +1,15 @@
+Model,Max R-hat,Min bulk ESS,Min tail ESS,Divergent transitions,Max-treedepth hits,E-BFMI (per chain),N,Participants
+"Frailty, main (complete cases)",1.001,3464,3723,0 of 12000,0 of 12000,"0.78, 0.73, 0.78, 0.73",203,97
+"Physical function, main (complete cases)",1.003,1372,2404,0 of 12000,0 of 12000,"0.35, 0.35, 0.35, 0.37",186,95
+"Frailty, beta-binomial",1.002,2758,3248,0 of 12000,0 of 12000,"0.70, 0.70, 0.72, 0.65",203,97
+"Frailty, collapsed ordinal",1.001,3151,5561,0 of 12000,0 of 12000,"0.67, 0.67, 0.63, 0.67",203,97
+"Frailty, + diabetes and statins",1.001,3440,4567,0 of 12000,0 of 12000,"0.76, 0.72, 0.74, 0.77",203,97
+"Physical function, + diabetes and statins",1.003,1401,3191,0 of 12000,0 of 12000,"0.37, 0.37, 0.36, 0.35",186,95
+"Frailty, log-ratio",1.002,2910,2003,0 of 12000,0 of 12000,"0.72, 0.72, 0.80, 0.70",203,97
+"Physical function, log-ratio",1.002,1387,2817,0 of 12000,0 of 12000,"0.40, 0.38, 0.35, 0.36",186,95
+CD41+CD62- across visits,1.001,2081,1790,0 of 12000,0 of 12000,"0.51, 0.48, 0.46, 0.51",208,97
+CD41+CD62+ across visits,1.001,2657,2230,0 of 12000,0 of 12000,"0.55, 0.55, 0.56, 0.52",208,97
+"Frailty, imputation-based, participants with platelet data",1.002,1792,1396,0 of 12000,0 of 12000,"0.56, 0.52, 0.57, 0.59",221,97
+"Physical function, imputation-based, participants with platelet data",1.011,406,721,0 of 12000,0 of 12000,"0.58, 0.52, 0.52, 0.55",203,97
+"Frailty, imputation-based + diabetes and statins",1.003,1587,1380,0 of 12000,0 of 12000,"0.66, 0.58, 0.57, 0.56",268,136
+"Physical function, imputation-based + diabetes and statins",1.024,341,684,0 of 12000,0 of 12000,"0.52, 0.53, 0.50, 0.57",248,135

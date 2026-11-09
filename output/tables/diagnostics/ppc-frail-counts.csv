@@ -1,0 +1,61 @@
+stratum,score,n_obs,observed,predicted,lower,upper,model,score_label
+Overall,0,203,123,126.20325,110,142,Binomial (main),0
+Overall,1,203,53,51.68575,38,66,Binomial (main),1
+Overall,2,203,24,17.6605,10,27,Binomial (main),2
+Overall,3,203,2,5.62425,2,11,Binomial (main),3
+Overall,4,203,1,1.54825,0,4,Binomial (main),4
+Overall,5,203,0,0.278,0,2,Binomial (main),5
+Baseline,0,73,41,42.62675,33,52,Binomial (main),0
+Baseline,1,73,20,19.4245,12,27,Binomial (main),1
+Baseline,2,73,11,7.40825,3,13,Binomial (main),2
+Baseline,3,73,0,2.632,0,6,Binomial (main),3
+Baseline,4,73,1,0.76725,0,3,Binomial (main),4
+Baseline,5,73,0,0.14125,0,1,Binomial (main),5
+6 months,0,63,42,41.73325,33,50,Binomial (main),0
+6 months,1,63,12,14.673,8,22,Binomial (main),1
+6 months,2,63,9,4.65525,1,9,Binomial (main),2
+6 months,3,63,0,1.4135,0,4,Binomial (main),3
+6 months,4,63,0,0.434,0,2,Binomial (main),4
+6 months,5,63,0,0.091,0,1,Binomial (main),5
+1 year,0,67,40,41.84325,33,51,Binomial (main),0
+1 year,1,67,21,17.58825,10,26,Binomial (main),1
+1 year,2,67,4,5.597,1,11,Binomial (main),2
+1 year,3,67,2,1.57875,0,5,Binomial (main),3
+1 year,4,67,0,0.347,0,2,Binomial (main),4
+1 year,5,67,0,0.04575,0,1,Binomial (main),5
+Overall,0,203,123,127.513,111,143,Beta-binomial,0
+Overall,1,203,53,49.349,36,64,Beta-binomial,1
+Overall,2,203,24,17.9895,10,27,Beta-binomial,2
+Overall,3,203,2,6.053,2,11.0250000000001,Beta-binomial,3
+Overall,4,203,1,1.751,0,5,Beta-binomial,4
+Overall,5,203,0,0.3445,0,2,Beta-binomial,5
+Baseline,0,73,41,43.104,33,52,Beta-binomial,0
+Baseline,1,73,20,18.63075,11,27,Beta-binomial,1
+Baseline,2,73,11,7.501,3,13,Beta-binomial,2
+Baseline,3,73,0,2.7525,0,6,Beta-binomial,3
+Baseline,4,73,1,0.84275,0,3,Beta-binomial,4
+Baseline,5,73,0,0.169,0,1,Beta-binomial,5
+6 months,0,63,42,42.2145,34,50,Beta-binomial,0
+6 months,1,63,12,13.8945,7,21,Beta-binomial,1
+6 months,2,63,9,4.6995,1,9,Beta-binomial,2
+6 months,3,63,0,1.5765,0,4,Beta-binomial,3
+6 months,4,63,0,0.49825,0,2,Beta-binomial,4
+6 months,5,63,0,0.11675,0,1,Beta-binomial,5
+1 year,0,67,40,42.1945,33,51,Beta-binomial,0
+1 year,1,67,21,16.82375,9,25,Beta-binomial,1
+1 year,2,67,4,5.789,2,11,Beta-binomial,2
+1 year,3,67,2,1.724,0,5,Beta-binomial,3
+1 year,4,67,0,0.41,0,2,Beta-binomial,4
+1 year,5,67,0,0.05875,0,1,Beta-binomial,5
+Overall,1,203,123,123.06675,108,137,"Ordinal (0, 1, >=2)",0
+Overall,2,203,53,51.6375,37,67,"Ordinal (0, 1, >=2)",1
+Overall,3,203,27,28.29575,18,40,"Ordinal (0, 1, >=2)",>=2
+Baseline,1,73,41,41.138,33,49,"Ordinal (0, 1, >=2)",0
+Baseline,2,73,20,19.7325,12,28,"Ordinal (0, 1, >=2)",1
+Baseline,3,73,12,12.1295,6,19,"Ordinal (0, 1, >=2)",>=2
+6 months,1,63,42,40.61575,33,48,"Ordinal (0, 1, >=2)",0
+6 months,2,63,12,14.24425,8,22,"Ordinal (0, 1, >=2)",1
+6 months,3,63,9,8.14,4,14,"Ordinal (0, 1, >=2)",>=2
+1 year,1,67,40,41.313,33,49,"Ordinal (0, 1, >=2)",0
+1 year,2,67,21,17.66075,10,26,"Ordinal (0, 1, >=2)",1
+1 year,3,67,6,8.02625,3,14,"Ordinal (0, 1, >=2)",>=2

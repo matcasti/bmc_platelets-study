@@ -1,0 +1,28 @@
+Variable,Baseline,6-Month,1-Year
+CD41-CD62- proportion,73,65,70
+CD41-CD62+ proportion,73,65,70
+CD41+CD62- proportion,73,65,70
+CD41+CD62+ proportion,73,65,70
+Sex,88,101,89
+Age,85,101,89
+Systolic Blood Pressure,85,101,89
+Diastolic Blood Pressure,85,101,89
+Mean Arterial Pressure,85,101,89
+Pulse Pressure,85,101,89
+Heart Rate,85,101,89
+Weight,85,98,85
+Height,85,101,88
+BMI,85,98,85
+Waist/Hip ratio,83,96,67
+Body fat,85,99,79
+Muscle mass,85,99,80
+Body water,85,99,79
+Bone mass,85,99,79
+FRAIL score,85,101,89
+CSTS,84,100,86
+Elbow flexion test,83,100,86
+TUG,84,98,85
+Diabetes,88,101,89
+Hypertension,88,101,89
+Dyslipidemia,88,101,89
+Dinamometer (average),77,100,81

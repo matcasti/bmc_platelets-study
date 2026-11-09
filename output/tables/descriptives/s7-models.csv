@@ -1,0 +1,3 @@
+Model,Outcome,Observations (outcome and covariates available),Participants (outcome and covariates available),Observations (observed platelets),Participants (observed platelets),Baseline / 6-month / 1-year (observed platelets)
+Frailty,FRAIL score,268,136,203,97,73 / 63 / 67
+Physical function,"Handgrip, CSTS, arm curl and TUG (joint model)",248,135,186,95,64 / 61 / 61

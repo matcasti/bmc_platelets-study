@@ -1,0 +1,4 @@
+Visit,Samples,Samples with a visit date,Median visit month,Range of visit months,Singlets (% of events),Cells (% of singlets),CD41+ events (% of cells gate),"Spearman rho, CD41+ share vs visit date"
+Baseline,73,69,December 2022,Nov 2022 - Mar 2023,"99.7 [99.2, 99.8]","99.6 [99.3, 99.7]","93.7 [89.5, 95.8]",0.19 (p = 0.127)
+6 months,65,61,June 2023,Jun 2023 - Aug 2023,"99.1 [98.4, 99.5]","99.0 [97.9, 99.5]","94.5 [87.0, 96.7]",-0.06 (p = 0.621)
+1 year,70,69,December 2023,Nov 2023 - Jan 2024,"99.0 [98.3, 99.7]","91.4 [86.8, 96.7]","54.9 [35.7, 77.6]",-0.54 (p < 0.001)

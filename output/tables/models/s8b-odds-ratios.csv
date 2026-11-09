@@ -1,0 +1,9 @@
+Model,Platelet,Odds ratio per 1 SD
+Main (complete cases),CD41+CD62-,"0.82 [0.49, 1.39]"
+Main (complete cases),CD41+CD62+,"1.00 [0.66, 1.46]"
+Beta-binomial,CD41+CD62-,"0.81 [0.48, 1.42]"
+Beta-binomial,CD41+CD62+,"0.99 [0.67, 1.49]"
+"+ diabetes, statins",CD41+CD62-,"0.79 [0.47, 1.36]"
+"+ diabetes, statins",CD41+CD62+,"0.97 [0.65, 1.46]"
+Imputation-based,CD41+CD62-,"0.82 [0.53, 1.25]"
+Imputation-based,CD41+CD62+,"0.99 [0.70, 1.36]"
