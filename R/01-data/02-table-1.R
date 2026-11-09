@@ -62,7 +62,7 @@ tbl_1 <- tbl_summary(
     fat_total ~ "Total fat mass (%)",
     muscle_total ~ "Total muscle mass (kg)",
     muscle_apendicular ~ "Appendicular muscle mass (kg)",
-    muscle_squeletal_index ~ "Skeletal muscle index (km/m²)",
+    muscle_squeletal_index ~ "Skeletal muscle index (kg/m²)",
     body_water ~ "Body water (%)",
     bone_mass ~ "Bone mass (kg)",
     dinamometer_average ~ "HGS - Average (kg)",

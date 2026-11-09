@@ -55,7 +55,7 @@ Cristian Núñez-Espinosa, Escuela de Medicina, Universidad de Magallanes, Punta
 
 ![](figures/supplementary/gating/fig-S1.png){width=6.39in}
 
-**Figure S1. Representative gating for platelet phenotypes.** Gating strategy used to identify platelets and their distribution according to CD41 and CD62 expression. Gates were sequentially applied to singlets, cells, and the CD41/CD62 quadrants. A minimum of 50,000 total events were acquired per sample. The upper-right quadrant corresponds to CD41+ CD62+ cells.
+**Figure S1. Representative gating for platelet phenotypes.** Gating strategy used to identify platelets and their distribution according to CD41 and CD62 expression. Gates were sequentially applied to singlets, cells, and the CD41/CD62 quadrants. A minimum of 50,000 total events were acquired per sample. The upper-right quadrant corresponds to CD41+ CD62+ cells. The labels “Active platelets” and “Inactive platelets” in the software output correspond to the CD41+/CD62+ and CD41+/CD62− quadrants, respectively; the CD41-negative quadrants (Q1, CD41−/CD62+; Q4, CD41−/CD62−) are not analysed as platelets. The “Platelets” gate (CD41a versus SSC-H) selects the CD41-positive events and is not the parent of the quadrant plot, which is drawn on the events of the cells gate.
 
 ![](figures/supplementary/gating/fig-S2.png){width=6.5in}
 
