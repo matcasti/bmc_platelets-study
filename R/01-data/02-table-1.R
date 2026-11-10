@@ -1,5 +1,6 @@
 # Table 1: sample description by sex (first record of each participant)
 
+invisible(Sys.setlocale("LC_CTYPE", "en_US.UTF-8"))  # keep non-ASCII characters (±, ⁺, ⁻) intact when run standalone
 library(data.table)
 library(here)
 library(gtsummary)

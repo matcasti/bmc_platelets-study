@@ -1,6 +1,7 @@
 # Observations per variable and visit (Table S5) and participants/observations entering each model
 # (Table S7, S7b, S7c)
 
+invisible(Sys.setlocale("LC_CTYPE", "en_US.UTF-8"))  # keep non-ASCII characters (±, ⁺, ⁻) intact when run standalone
 library(data.table)
 library(here)
 

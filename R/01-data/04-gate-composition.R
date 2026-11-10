@@ -5,6 +5,7 @@
 # relation with the date of assessment (the only available proxy of the assay batch).
 # The analysis dataset stores the assessment date as days since the first assessment and as year-month.
 
+invisible(Sys.setlocale("LC_CTYPE", "en_US.UTF-8"))  # keep non-ASCII characters (±, ⁺, ⁻) intact when run standalone
 library(data.table)
 library(here)
 

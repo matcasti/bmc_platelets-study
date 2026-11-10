@@ -2,6 +2,7 @@
 #
 # Paired within-participant differences between visits, bootstrap of the mean (10,000 resamples).
 
+invisible(Sys.setlocale("LC_CTYPE", "en_US.UTF-8"))  # keep non-ASCII characters (±, ⁺, ⁻) intact when run standalone
 library(data.table)
 library(here)
 

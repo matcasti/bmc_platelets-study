@@ -7,6 +7,7 @@
 # The analysis dataset is distributed with the repository, so this script only needs to be run by the
 # data custodians. Every other script starts from data/platelets_d.RData.
 
+invisible(Sys.setlocale("LC_CTYPE", "en_US.UTF-8"))  # keep non-ASCII characters (±, ⁺, ⁻) intact when run standalone
 library(data.table)
 library(here)
 
